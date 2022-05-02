@@ -72,3 +72,7 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Content/Maps/Max_Sub_LVL.umap
+Content/Maps/forest_Sub_LVL.umap
+Content/StarterContent/Props/SM_WindowFrame.uasset
+Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset
